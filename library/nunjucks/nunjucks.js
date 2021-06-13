@@ -5833,7 +5833,7 @@
 // `requestFlush` requests that the high priority event queue be flushed as
 // soon as possible.
 // This is useful to prevent an error thrown in a task from stalling the event
-// queue if the exception handled by Node.js¡¯s
+// queue if the exception handled by Node.jsï¿½ï¿½s
 // `process.on("uncaughtException")` or by a domain.
                     rawAsap.requestFlush = requestFlush;
 
